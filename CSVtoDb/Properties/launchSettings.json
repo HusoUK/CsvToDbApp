@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSVtoDb": {
+      "commandName": "Project",
+      "workingDirectory": "G:\\Huso Storage\\Master Apps\\My C# projects\\GitHub\\CsvToDbApp\\CsvToDbApp\\CSVtoDb"
+    }
+  }
+}
